@@ -1,4 +1,4 @@
-flaflask
+flask
 flask-cors
 pytesseract
 pillow
